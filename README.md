@@ -24,8 +24,8 @@ Node.js는 필수적으로 설치되어 있어야 합니다. [Node.js 공식 웹
 프로젝트를 로컬에 클론합니다.
 
 ```bash
-git clone https://github.com/your-repository/click-event-server.git
-cd click-event-server
+git clone https://github.com/your-repository/work-test.git
+cd work-test
 ```
 
 ### 3. 의존성 설치
